@@ -35,7 +35,7 @@ This project is a **Customizable AI Chatbot** that allows you to easily modify a
 
 The solution is built on **Next.js** for a robust React-based frontend, styled with **Tailwind CSS** for responsive design, and enriched with animations from **Framer Motion**. It integrates powerful AI engines such as **OpenAI**, **Fireworks AI**, and **Anthropic AI** to handle diverse conversational tasks.
 
-**Demo Chatbot: [https://customizable-ai-chatbot.vercel.app](https://customizable-ai-chatbot.vercel.app)** 🌐.
+**Demo Chatbot: [https://customizable-ai-chatbot-snowy.vercel.app/](https://customizable-ai-chatbot-snowy.vercel.app/)** 🌐.
 
 > Note: The demo might not work when I've run out of OpenAI credits. If you notice that, please kindly notify me via email or GitHub issues and I'll try to fix it as soon as possible. Thank you for your understanding! 🙏
 
@@ -375,9 +375,3 @@ For more information on the technologies and APIs used in this project, check ou
 - **Anthropic AI API Documentation:** [Anthropic AI](https://www.anthropic.com/)
 - **Framer Motion Documentation:** [Framer Motion](https://www.framer.com/motion/)
 - **Vercel Documentation:** [Vercel Docs](https://vercel.com/docs)
-
----
-
-Happy coding! 🚀 Thank you for using and contributing to this project.
-
-[⬆️ Back to Top](#customizable-ai-chatbot---build-your-own-conversational-ai-in-minutes-)
