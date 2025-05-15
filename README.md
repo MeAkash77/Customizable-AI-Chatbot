@@ -25,30 +25,6 @@ A fully customizable AI chatbot built with modern web technologies. This project
 
 ---
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Fork and Clone](#fork-and-clone)
-  - [Service Accounts Setup](#service-accounts-setup)
-  - [Environment Variables Setup](#environment-variables-setup)
-  - [Local Development Setup](#local-development-setup)
-- [Deployment Instructions](#deployment-instructions)
-  - [Deploy on Vercel](#deploy-on-vercel)
-- [Pinecone & RAG Setup](#pinecone--rag-setup)
-- [Customization](#customization)
-  - [UI Customization](#ui-customization)
-  - [Identity Customization](#identity-customization)
-  - [Intention Customization](#intention-customization)
-- [Usage](#usage)
-  - [Use Cases](#use-cases)
-- [Contributing](#contributing)
-- [Author](#author)
-- [License](#license)
-- [Additional Resources](#additional-resources)
-
 For quickstart, you can ignore the detailed instructions and jump straight to the [Getting Started](#getting-started), [Deployment Instructions](#deployment-instructions), [Pinecone & RAG Setup](#pinecone--rag-setup), and [Customization](#customization) sections.
 
 ---
