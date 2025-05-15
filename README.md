@@ -84,7 +84,7 @@ Each of these technologies is represented with a shield icon at the top of this 
 2. **Clone Your Fork:**  
    Open your terminal and run: (Replace `your-username` with your GitHub username)
    ```bash
-   git clone https://github.com/hoangsonww/Customizable-AI-Chatbot.git
+   git https://github.com/MeAkash77/Customizable-AI-Chatbot.git
    cd Customizable-AI-Chatbot
    ```
 
