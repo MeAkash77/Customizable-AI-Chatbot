@@ -22,9 +22,7 @@ The solution is built on **Next.js** for a robust React-based frontend, styled w
 
 The chatbot interface is designed to be modern and user-friendly, with a clean layout and smooth animations. Users can interact with the chatbot by typing messages and receiving responses in real time. The chatbot's identity and appearance can be fully customized to match your preferences.
 
-<p align="center">
-  <img src="img/ai.png" alt="AI Chatbot Interface" width="100%" style="border-radius: 8px">
-</p>
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/7a1bdf1a-5724-40f9-871b-fcc27b12f19a" />
 
 <p align="center">
   <img src="img/ai-dark.png" alt="AI Chatbot Interface" width="100%" style="border-radius: 8px">
