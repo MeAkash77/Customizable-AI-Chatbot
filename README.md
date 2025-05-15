@@ -4,12 +4,6 @@ A fully customizable AI chatbot built with modern web technologies. This project
 
 **Are you ready to build your own AI chatbot in minutes? Let's get started!** 🚀
 
-<p align="center">
-  <img src="img/banner.png" alt="Customizable AI Chatbot Banner" width="100%" style="border-radius: 8px">
-</p>
-
----
-
 For quickstart, you can ignore the detailed instructions and jump straight to the [Getting Started](#getting-started), [Deployment Instructions](#deployment-instructions), [Pinecone & RAG Setup](#pinecone--rag-setup), and [Customization](#customization) sections.
 
 ---
